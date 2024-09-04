@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "315271308117",
+    "firebase_url": "https://effiplan-a7f8b-default-rtdb.firebaseio.com",
+    "project_id": "effiplan-a7f8b",
+    "storage_bucket": "effiplan-a7f8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315271308117:android:1e6a682b50136b009c45dc",
+        "android_client_info": {
+          "package_name": "com.example.effiplanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxkslrw2xtGOcRAzj3B5p7MFditUwSpRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
