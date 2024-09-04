@@ -7,7 +7,6 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
-import com.example.effiplanner.Model.Service
 import com.example.effiplanner.R
 import com.example.effiplanner.Service.DetailServiceActivity
 

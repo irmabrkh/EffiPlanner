@@ -11,7 +11,6 @@ import android.widget.Toast
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.example.effiplanner.Adapter.ServiceAdapter
-import com.example.effiplanner.Model.Service
 import com.example.effiplanner.R
 import com.example.effiplanner.Service.CreateServiceActivity
 import com.google.firebase.database.DataSnapshot
